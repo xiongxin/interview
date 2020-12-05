@@ -68,4 +68,5 @@ BIOS读取加载程序(bootloader)通过识别文件系统类型读取到操作�
 
 ## 第5讲 物理内存管理：连续内存分配
 
- 
+ ![内存结构](https://raw.githubusercontent.com/xiongxin/interview/main/images/2020-12-05_20-24.png)
+
