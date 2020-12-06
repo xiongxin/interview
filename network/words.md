@@ -77,3 +77,17 @@ He sat in an adjacent room and waited.
 他坐在一间相邻的房间里等。
 The schools were adjacent but there were separate doors.
 这些学校相邻，但是有各自的门。
+
+# circuit /ˈsɜːkɪt/  CET4 TEM4
+1.
+N-COUNT An electrical circuit is a complete route which an electric current can flow around. 电路
+例：
+Any attempts to cut through the cabling will break the electrical circuit.
+任何切断电缆的做法都会使电路中断。
+2.
+→see also   closed-circuit
+3.
+N-COUNT A circuit is a series of places that are visited regularly by a person or group, especially as a part of their job. 巡回的场所
+例：
+It's a common problem, the one I'm asked about most when I'm on the lecture circuit.
+这是个常见问题，一个在我巡回演讲时人们最常问到的问题。
