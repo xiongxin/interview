@@ -248,3 +248,157 @@ ADJ Discrete ideas or things are separate and distinct from each other. 分立�
 例：
 ...instruction manuals that break down jobs into scores of discrete steps.
 …将这些工作分解为多个分立步骤的说明书。
+
+# suppress /səˈprɛs/  CET6 TEM4 (suppressing,suppressed,suppresses)
+1.
+V-T If someone in authority suppresses an activity, they prevent it from continuing, by using force or making it illegal. 镇压; 压制
+例：
+...drug traffickers, who continue to flourish despite international attempts to suppress them.
+…尽管全世界努力镇压却继续猖獗的毒贩子们。
+2.
+N-UNCOUNT 镇压; 压制 suppression
+例：
+...people who were imprisoned after the violent suppression of the pro-democracy movement protests.
+…赞成民主的抗议活动受暴力镇压后被囚禁的人们。
+3.
+V-T If a natural function or reaction of your body is suppressed, it is stopped, for example by drugs or illness. 抑制 (身体功能或反应)
+例：
+The reproduction and growth of the cancerous cells can be suppressed by bombarding them with radiation.
+癌细胞的繁殖和生长可通过放射线辐射加以抑制。
+4.
+N-UNCOUNT 抑制 suppression
+例：
+Eye problems can indicate an unhealthy lifestyle with subsequent suppression of the immune system.
+眼睛问题表明一种不健康的生活方式以及随后免疫系统所受的抑制。
+5.
+V-T If you suppress your feelings or reactions, you do not express them, even though you might want to. 抑制 (情感或反应)
+例：
+Liz thought of Barry and suppressed a smile.
+利兹想到了巴里，强忍住一个微笑。
+6.
+N-UNCOUNT 抑制 suppression
+例：
+A mother's suppression of her own feelings can cause problems.
+一位母亲对她自己情感的压抑可能会导致问题。
+7.
+V-T If someone suppresses a piece of information, they prevent other people from learning it. 封锁
+例：
+At no time did they try to persuade me to suppress the information.
+他们从未试图劝我封锁这个消息。
+8.
+N-UNCOUNT 封锁 suppression
+例：
+The inspectors found no evidence which supported any allegation of suppression of official documents.
+这些检察官们找不到证据证明对封锁官方文件的任何指控。
+9.
+V-T If someone or something suppresses a process or activity, they stop it continuing or developing. 阻止 (活动); 抑制 (过程)
+例：
+The government is suppressing inflation by increasing interest rates.
+政府正通过提高利率来抑制通货膨胀。
+
+# ultimately /ˈʌltɪmɪtlɪ/ 
+1.
+ADV Ultimately means finally, after a long and often complicated series of events. 最终
+例：
+Whatever the scientists ultimately conclude, all of their data will immediately be disputed.
+无论科学家们最终得出什么结论，他们的所有数据将随即受到质疑。
+2.
+ADV You use ultimately to indicate that what you are saying is the most important point in a discussion. 最重要地
+例：
+Ultimately, Judge Lewin has the final say.
+最重要地，卢因法官有最终发言权。
+
+# intuitive /ɪnˈtjuːɪtɪv/  TEM8
+1.
+ADJ If you have an intuitive idea or feeling about something, you feel that it is true although you have no evidence or proof of it. 直觉的
+例：
+A positive pregnancy test soon confirmed her intuitive feelings.
+阳性的孕检结果很快证实了她的直觉。
+2.
+ADV 凭直觉地 intuitively
+例：
+He seemed to know intuitively that I must be missing my mother.
+他似乎凭直觉知道我一定是在思念我的母亲。
+
+# eliminate /ɪˈlɪmɪˌneɪt/  CET4 TEM4 (eliminating,eliminated,eliminates)
+1.
+V-T To eliminate something, especially something you do not want or need, means to remove it completely. 根除
+例：
+Recent measures have not eliminated discrimination in employment.
+最近的举措还未能根除就业歧视。
+2.
+N-UNCOUNT 根除 elimination
+例：
+...the prohibition and elimination of chemical weapons.
+…对化学武器的禁止和销毁。
+3.
+V-T PASSIVE When a person or team is eliminated from a competition, they are defeated and so stop participating in the competition. 淘汰
+例：
+I was eliminated from the 400 metres in the semi-finals.
+我在400米半决赛中被淘汰了。
+4.
+V-T If someone says that they have eliminated an enemy, they mean that they have killed them. By using the word "eliminate," they are trying to make the action sound more positive than if they used the word "kill." 消灭
+例：
+He declared war on the government and urged right-wingers to eliminate their opponents.
+他向政府宣战并且力劝右翼分子们消灭他们的对手。
+
+# rigorous /ˈrɪɡərəs/  CET6 TEM8
+1.
+ADJ A test, system, or procedure that is rigorous is very thorough and strict. (测试、制度、程序) 严格缜密的
+例：
+The selection process is based on rigorous tests of competence and experience.
+挑选过程是建立在对能力和经验严格缜密的考核的基础之上的。
+2.
+ADV 严格缜密地 rigorously
+例：
+...rigorously conducted research.
+…严格进行的研究。
+3.
+ADJ If someone is rigorous in the way that they do something, they are very careful and thorough. 一丝不苟的; 缜密的
+例：
+He is rigorous in his control of expenditure.
+他在控制开支方面一丝不苟。
+
+# concentrate /ˈkɒnsənˌtreɪt/  CET4 TEM4 (concentrating,concentrated,concentrates)
+1.
+V-T/V-I If you concentrate on something, or concentrate your mind on it, you give all your attention to it. 集中 (心思); 专心
+例：
+It was up to him to concentrate on his studies and make something of himself.
+他能否专心学习并有所成就取决于他自己。
+At work you need to be able to concentrate.
+工作时你要能专心。
+2.
+V-T If something is concentrated in an area, it is all there rather than being spread around. 集中
+例：
+Italy's industrial districts are concentrated in its north-central and northeastern regions.
+意大利的工业区集中在该国中北部和东北部地区。
+
+# estimate  CET4 TEM4 (estimating,estimated,estimates)
+动词读作ˈɛstɪˌmeɪt。名词读作ˈɛstɪmɪt。
+1.
+V-T If you estimate a quantity or value, you make an approximate judgment or calculation of it. 估计
+例：
+Try to estimate how many steps it will take to get to a close object.
+估计一下需要多少步才能到达一个近距目标。
+I estimate that total cost for treatment will go from $9,000 to $12,500.
+我估计治疗费总额将在9千美元到1.25万美元之间。
+2.
+ADJ 估计的 estimated
+例：
+There are an estimated 90,000 gangsters in the country.
+这个国家估计有9万名歹徒。
+3.
+N-COUNT An estimate is an approximate calculation of a quantity or value. 估计
+例：
+...the official estimate of the election result.
+…选举结果的官方估计。
+4.
+N-COUNT An estimate is a judgment about a person or situation that you make based on the available evidence. 判断
+例：
+I hadn't been far wrong in my estimate of his grandson's capabilities.
+我对他孙子能力的判断没有太离谱。
+5.
+N-COUNT An estimate from someone who you employ to do a job for you, such as a builder or a plumber, is a written statement of how much the job is likely to cost. 估价
+例：
+Quotes and estimates can be prepared by computer on the spot.
+报价和估价可以当场用电脑做出来。
