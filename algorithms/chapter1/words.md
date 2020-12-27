@@ -95,7 +95,6 @@ We will be exploring different approaches to gathering information.
 n. 学科；纪律；训练；惩罚
 vt. 训练，训导；惩戒
 
-# potential
 1.
 ADJ You use potential to say that someone or something is capable of developing into the particular kind of person or thing mentioned. 潜在的
 例：
@@ -217,7 +216,7 @@ ADJ Tailored clothes are designed to fit close to the body, rather than being lo
  英 [səˈfɪʃntli]   美 [səˈfɪʃntli]
 adv. 充分地；足够地
 
-# excellent /ˈɛksələnt/  CET4
+- excellent /ˈɛksələnt/  CET4
 1.
 ADJ Something that is excellent is extremely good. 极好的; 优秀的
 例：
@@ -252,6 +251,28 @@ ADJ Extraneous things are not relevant or essential to the situation you are inv
 例：
 To avoid delays, she wanted the disaster relief legislation to be kept free of extraneous matters.
 为避免延误，她希望无关紧要的事不被掺杂进灾害救济立法程序中。
+
+# appreciation /əˌpriːʃɪˈeɪʃən/  TEM4
+1.
+N-SING Appreciationof something is the recognition and enjoyment of its good qualities. 欣赏
+例：
+...an investigation into children's understanding and appreciation of art.
+…关于孩子对艺术的理解与欣赏的一个调查。
+2.
+N-SING Your appreciation for something that someone does for you is your gratitude for it. 感激
+例：
+He expressed his appreciation for what he called Saudi Arabia's moderate and realistic oil policies.
+他表达了对他所称的沙特阿拉伯温和而务实的石油政策的感激。
+3.
+N-SING An appreciation of a situation or problem is an understanding of what it involves. 了解
+例：
+They have a stronger appreciation of the importance of economic incentives.
+他们对经济激励的重要性有了更深的了解。
+4.
+N-UNCOUNT Appreciation in the value of something is an increase in its value over a period of time. 增值
+例：
+You have to take capital appreciation of the property into account.
+你得将那个房产的资本增值考虑进来。
 
 # circumstance /ˈsɜːkəmstəns/  CET4 TEM4
 1.
